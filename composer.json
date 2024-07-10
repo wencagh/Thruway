@@ -1,5 +1,5 @@
 {
-    "name": "thruway/router",
+    "name": "wencagh/thruway",
     "description": "Thruway WAMP router core",
     "license": "MIT",
     "keywords": [
@@ -39,7 +39,7 @@
         "thruway/client": "^0.5.0",
         "react/event-loop": "^1.0 || ^0.5 || ^0.4.3",
         "react/promise": "^2.3.0",
-        "thruway/ratchet-transport": "^0.5.0"
+        "wencagh/ratchet-transport": "^0.5.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^8",
